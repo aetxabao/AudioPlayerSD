@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioPlayerSD</string>
+    <string name="play_from_sd">Reproducir desde SD</string>
+</resources>
